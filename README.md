@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgkdus2217%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Github Stats
-![(Sinary00)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Sina-ry&include_all_commits=true&count_private=true)
+![(Sinary00)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinary00&include_all_commits=true&count_private=true)
 
 ## Tech Stacks
 ### Design
